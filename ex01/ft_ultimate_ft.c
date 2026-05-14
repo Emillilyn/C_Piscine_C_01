@@ -6,11 +6,11 @@
 /*   By: evavrinu <evavrinu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/13 18:06:43 by evavrinu          #+#    #+#             */
-/*   Updated: 2026/05/14 15:58:40 by evavrinu         ###   ########.fr       */
+/*   Updated: 2026/05/14 16:18:10 by evavrinu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+// #include <stdio.h>
 
 void	ft_ultimate_ft(int *********nbr)
 {

@@ -6,11 +6,11 @@
 /*   By: evavrinu <evavrinu@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/13 17:50:23 by evavrinu          #+#    #+#             */
-/*   Updated: 2026/05/13 17:52:54 by evavrinu         ###   ########.fr       */
+/*   Updated: 2026/05/14 16:17:50 by evavrinu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+// #include <stdio.h>
 
 void	ft_ft(int *nbr)
 {
